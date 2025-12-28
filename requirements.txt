@@ -1,0 +1,1 @@
+# No external dependencies - because adding packages defeats the purpose of a simple tool
